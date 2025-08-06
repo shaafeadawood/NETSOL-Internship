@@ -1,2 +1,2 @@
 # NETSOL-Internship
-Tracking my 5-day internship learning plan
+Tracking my internship learning plan
